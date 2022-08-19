@@ -1,0 +1,39 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5%;
+}
+
+#LoginToAccount{
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+#LoginToAccount:hover{
+  cursor: pointer;
+  color: red;
+}
+
+input{
+  margin-left: 10px;
+}
+
+button{
+  margin: 10px;
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 10%;
+}
+
+button:hover{
+  background-color: turquoise;
+}
+
+.inputfield{
+  height: 20px;
+  font-size: 17px;
+}

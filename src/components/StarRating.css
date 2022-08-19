@@ -1,0 +1,14 @@
+#star {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.on {
+  color: yellow;
+  background-color: transparent;
+}
+.off {
+  color: gray;
+  background-color: transparent;
+}
